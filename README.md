@@ -2,7 +2,7 @@
 
 This is the repository of our paper "Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models". Our paper was accepted by Findings of ACL 2023, see you in Toronto!
 
-Arxiv and demo will be released soon!
+[[arXiv]](https://arxiv.org/abs/2305.12759) [[GitHub]](https://github.com/nlp-waseda/Kanbun-LM) [demo]
 
 ## Dataset
 
@@ -30,4 +30,14 @@ Arxiv and demo will be released soon!
 
 ## Citation
 
-Coming soon...
+```tex
+@misc{wang2023kanbunlm,
+      title={Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models}, 
+      author={Hao Wang and Hirofumi Shimizu and Daisuke Kawahara},
+      year={2023},
+      eprint={2305.12759},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
