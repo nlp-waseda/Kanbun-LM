@@ -2,7 +2,7 @@
 
 This is the repository of our paper "Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models". Our paper was accepted by Findings of ACL 2023, see you in Toronto!
 
-[[arXiv]](https://arxiv.org/abs/2305.12759) [[GitHub]](https://github.com/nlp-waseda/Kanbun-LM) [demo]
+[[arXiv]](https://arxiv.org/abs/2305.12759) [[GitHub]](https://github.com/nlp-waseda/Kanbun-LM) [[demo]](https://huggingface.co/spaces/nlp-waseda/Kanbun-LM)
 
 ## Dataset
 
