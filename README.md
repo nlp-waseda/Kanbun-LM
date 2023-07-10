@@ -2,7 +2,7 @@
 
 This is the repository of our paper "Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models". Our paper was accepted by Findings of ACL 2023, see you in Toronto!
 
-[[arXiv]](https://arxiv.org/abs/2305.12759) [[GitHub]](https://github.com/nlp-waseda/Kanbun-LM) [[demo]](https://huggingface.co/spaces/nlp-waseda/Kanbun-LM)
+[[ACL]](https://aclanthology.org/2023.findings-acl.545/) [[arXiv]](https://arxiv.org/abs/2305.12759) [[GitHub]](https://github.com/nlp-waseda/Kanbun-LM) [[demo]](https://huggingface.co/spaces/nlp-waseda/Kanbun-LM)
 
 ## Dataset
 
@@ -31,13 +31,18 @@ This is the repository of our paper "Kanbun-LM: Reading and Translating Classica
 ## Citation
 
 ```tex
-@misc{wang2023kanbunlm,
-      title={Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models}, 
-      author={Hao Wang and Hirofumi Shimizu and Daisuke Kawahara},
-      year={2023},
-      eprint={2305.12759},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{wang-etal-2023-kanbun,
+    title = "Kanbun-{LM}: Reading and Translating Classical {C}hinese in {J}apanese Methods by Language Models",
+    author = "Wang, Hao  and
+      Shimizu, Hirofumi  and
+      Kawahara, Daisuke",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.545",
+    pages = "8589--8601",
 }
 ```
 
